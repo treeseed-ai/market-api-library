@@ -16,3 +16,4 @@ TreeSeed Market API provides independent marketplace services with strict resour
 
 Workload and caller identities remain distinct. Each market retains deployment and data authority while interoperating through explicit contracts.
 
+TreeDX is the sole authoring and publication authority for this objective.
